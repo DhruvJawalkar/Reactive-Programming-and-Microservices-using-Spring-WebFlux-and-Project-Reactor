@@ -1,0 +1,8 @@
+.idea
+.idea/*
+**/gradle/*
+**/gradlew
+**/gradlew.bat
+/simple-service/build/*
+/simple-service/.gradle/*
+/simple-service/gradle/*
